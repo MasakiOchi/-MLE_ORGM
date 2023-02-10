@@ -29,3 +29,12 @@ Code of the MLE.
 ## MLE_tools.py
 
 Tools to impliment "MLE_algorithm.py" and draw heatmaps.
+
+# Citation
+
+Please use Ref. [1] for the citation of the present code.
+
+# References
+
+[1] Masaki Ochi, Tatsuro Kawamoto, "Finding community structure using the ordered random graph model" https://arxiv.org/abs/2210.08989
+[2] https://graph-tool.skewed.de
